@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/haqiqiw/react-native-slideshow.git"
+    "url": "git+https://github.com/Luywer/react-native-slideshow.git"
   },
   "keywords": [
     "react",
@@ -18,7 +18,7 @@
   "author": "M. Asrof Bayhaqqi <masrofbayhaqqi@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/haqiqiw/react-native-slideshow/issues"
+    "url": "https://github.com/Luywer/react-native-slideshow/issues"
   },
-  "homepage": "https://github.com/haqiqiw/react-native-slideshow#readme"
+  "homepage": "https://github.com/Luywer/react-native-slideshow#readme"
 }
